@@ -7,16 +7,16 @@ and communication patterns in networks. Developed using HTML, CSS, and JavaScrip
 visually represents nodes and their connections, allowing users to observe how an infection or piece of
 information propagates efficiently across the network over time. The project highlights important concepts
 of network theory, such as clustering, connectivity, and rapid transmission, while providing an interactive
-and easy-to-understand learning platform for studying real-world spreading phenomena.
+and easy-to-understand learning platform for studying real-world spreading phenomena
 
-Features
-Adjustable infection probability
-Rewiring probability (small-world effect)
-Real-time graph
-Network visualization
+## Features
+- Adjustable infection probability
+- Rewiring probability (small-world effect)
+- Real-time graph
+- Network visualization
 
-Tech
+## Tech
 HTML, CSS, JavaScript
 
-Contributors
-Sukhleen Kaur
+## Contributors
+- Sukhleen Kaur
